@@ -1,0 +1,16 @@
+Initial setup:
+remove '# ' from all the datasets as pd.readcsv reads class as an attribute
+
+Keep all the datasets in the datasets folder
+
+1. For House Votes dataset, run:
+python3 house_votes.py
+
+2. For Wine dataset:
+python3 wine.py
+
+3. For cancer dataset:
+python3 cancer.py
+
+4. For contraceptive methods dataset:
+python3 contraceptive_method.py

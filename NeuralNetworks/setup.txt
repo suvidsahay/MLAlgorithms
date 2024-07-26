@@ -1,0 +1,14 @@
+To run the correction verification functions: 
+python3 nn_test1.py
+python3 nn_test2.py
+
+To run house votes:
+python3 nn_house_votes.py
+
+To run wine:
+python3 nn_wine.py
+
+To run cancer:
+python3 nn_cancer.py
+
+The cost evaluation files is given in the sub-directory graphs.

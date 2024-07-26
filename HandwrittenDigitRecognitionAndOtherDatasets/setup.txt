@@ -1,0 +1,15 @@
+Handwritten digit recognition
+
+For neural networks run:
+Handwritten_digits.py
+
+For random forest run:
+Handwritten_digits_random_forest.py
+
+Titanic dataset
+
+For neural network run:
+titanic_nn.py
+
+For random forest run:
+titanic_nn.py

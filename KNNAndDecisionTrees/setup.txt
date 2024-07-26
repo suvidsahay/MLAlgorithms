@@ -1,0 +1,7 @@
+install libraries such as pandas, numpy and matplotlib
+
+run knn using:
+python3 knn.py
+
+run decision tree using:
+python3 decision_tree.py

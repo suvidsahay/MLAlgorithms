@@ -1,0 +1,416 @@
+alpha=1, lambda = 1
+
+For Neural network with 0 hidden layers and 2 neurons in each layer: 97.24802201582388 97.51984126984128 97.59920634920636 97.34945609945609
+   pred_1  pred_2  pred_3
+1    58.0     1.0     0.0
+2     2.0    67.0     2.0
+3     0.0     0.0    48.0
+For Neural network with 0 hidden layers and 4 neurons in each layer: 96.65570175438597 97.1626984126984 96.68650793650792 96.6386113886114
+   pred_1  pred_2  pred_3
+1    57.0     2.0     0.0
+2     1.0    68.0     2.0
+3     0.0     1.0    47.0
+For Neural network with 0 hidden layers and 8 neurons in each layer: 95.58135534915722 96.14417989417991 96.01190476190477 95.7027972027972
+   pred_1  pred_2  pred_3
+1    56.0     3.0     0.0
+2     1.0    66.0     4.0
+3     0.0     0.0    48.0
+For Neural network with 0 hidden layers and 16 neurons in each layer: 97.83625730994153 98.13492063492063 97.99603174603176 97.93919968919968
+   pred_1  pred_2  pred_3
+1    57.0     2.0     0.0
+2     1.0    69.0     1.0
+3     0.0     0.0    48.0
+For Neural network with 1 hidden layers and 2 neurons in each layer: 62.58621431028551 nan 58.154761904761905 nan
+   pred_1  pred_2  pred_3
+1    30.0    29.0     0.0
+2     3.0    67.0     1.0
+3     2.0    31.0    15.0
+For Neural network with 1 hidden layers and 4 neurons in each layer: 96.62302201582388 96.96428571428571 97.12301587301587 96.79001554001553
+   pred_1  pred_2  pred_3
+1    58.0     1.0     0.0
+2     3.0    66.0     2.0
+3     0.0     0.0    48.0
+For Neural network with 1 hidden layers and 8 neurons in each layer: 96.69246646026832 97.10317460317461 97.0436507936508 96.86693861693861
+   pred_1  pred_2  pred_3
+1    57.0     2.0     0.0
+2     2.0    67.0     2.0
+3     0.0     0.0    48.0
+For Neural network with 1 hidden layers and 16 neurons in each layer: 94.92367561059513 95.66798941798943 95.4563492063492 95.18775668775669
+   pred_1  pred_2  pred_3
+1    55.0     4.0     0.0
+2     3.0    66.0     2.0
+3     0.0     0.0    48.0
+For Neural network with 2 hidden layers and 2 neurons in each layer: 39.92539559683523 nan 33.33333333333333 nan
+   pred_1  pred_2  pred_3
+1     0.0    59.0     0.0
+2     0.0    71.0     0.0
+3     0.0    48.0     0.0
+For Neural network with 2 hidden layers and 4 neurons in each layer: 39.92539559683523 nan 33.33333333333333 nan
+   pred_1  pred_2  pred_3
+1     0.0    59.0     0.0
+2     0.0    71.0     0.0
+3     0.0    48.0     0.0
+For Neural network with 2 hidden layers and 8 neurons in each layer: 69.99484004127967 nan 66.74603174603176 nan
+   pred_1  pred_2  pred_3
+1    30.0    29.0     0.0
+2     1.0    70.0     0.0
+3     0.0    24.0    24.0
+For Neural network with 2 hidden layers and 16 neurons in each layer: 98.3625730994152 98.4126984126984 98.63095238095238 98.4024864024864
+   pred_1  pred_2  pred_3
+1    59.0     0.0     0.0
+2     1.0    68.0     2.0
+3     0.0     0.0    48.0
+For Neural network with 3 hidden layers and 2 neurons in each layer: 39.92539559683523 nan 33.33333333333333 nan
+   pred_1  pred_2  pred_3
+1     0.0    59.0     0.0
+2     0.0    71.0     0.0
+3     0.0    48.0     0.0
+For Neural network with 3 hidden layers and 4 neurons in each layer: 39.92539559683523 nan 33.33333333333333 nan
+   pred_1  pred_2  pred_3
+1     0.0    59.0     0.0
+2     0.0    71.0     0.0
+3     0.0    48.0     0.0
+For Neural network with 3 hidden layers and 8 neurons in each layer: 39.92539559683523 nan 33.33333333333333 nan
+   pred_1  pred_2  pred_3
+1     0.0    59.0     0.0
+2     0.0    71.0     0.0
+3     0.0    48.0     0.0
+For Neural network with 3 hidden layers and 16 neurons in each layer: 86.10767113863089 nan 85.29761904761907 nan
+   pred_1  pred_2  pred_3
+1    47.0    12.0     0.0
+2     2.0    68.0     1.0
+3     0.0    10.0    38.0
+For Neural network with 4 hidden layers and 2 neurons in each layer: 39.92539559683523 nan 33.33333333333333 nan
+   pred_1  pred_2  pred_3
+1     0.0    59.0     0.0
+2     0.0    71.0     0.0
+3     0.0    48.0     0.0
+For Neural network with 4 hidden layers and 4 neurons in each layer: 39.92539559683523 nan 33.33333333333333 nan
+   pred_1  pred_2  pred_3
+1     0.0    59.0     0.0
+2     0.0    71.0     0.0
+3     0.0    48.0     0.0
+For Neural network with 4 hidden layers and 8 neurons in each layer: 39.92539559683523 nan 33.33333333333333 nan
+   pred_1  pred_2  pred_3
+1     0.0    59.0     0.0
+2     0.0    71.0     0.0
+3     0.0    48.0     0.0
+For Neural network with 4 hidden layers and 16 neurons in each layer: 63.05684554523564 nan 62.32936507936508 nan
+   pred_1  pred_2  pred_3
+1    30.0    28.0     1.0
+2    12.0    55.0     4.0
+3     0.0    21.0    27.0
+
+
+
+
+alpha=1, lambda = 0.1
+For Neural network with 0 hidden layers and 2 neurons in each layer: 97.18201754385964 97.44047619047619 97.59920634920636 97.31779331779332
+   pred_1  pred_2  pred_3
+1    58.0     1.0     0.0
+2     2.0    67.0     2.0
+3     0.0     0.0    48.0
+For Neural network with 0 hidden layers and 4 neurons in each layer: 96.55701754385964 97.08465608465607 96.85317460317461 96.73573648573647
+   pred_1  pred_2  pred_3
+1    56.0     3.0     0.0
+2     2.0    68.0     1.0
+3     0.0     0.0    48.0
+For Neural network with 0 hidden layers and 8 neurons in each layer: 96.69590643274854 96.85317460317461 96.93253968253968 96.73437673437672
+   pred_1  pred_2  pred_3
+1    58.0     1.0     0.0
+2     1.0    67.0     3.0
+3     0.0     1.0    47.0
+For Neural network with 0 hidden layers and 16 neurons in each layer: 97.2514619883041 97.81084656084656 97.44047619047619 97.3533411033411
+   pred_1  pred_2  pred_3
+1    56.0     3.0     0.0
+2     1.0    69.0     1.0
+3     0.0     0.0    48.0
+For Neural network with 1 hidden layers and 2 neurons in each layer: 81.4875730994152 nan 80.3452380952381 nan
+   pred_1  pred_2  pred_3
+1    47.0    12.0     0.0
+2     3.0    66.0     2.0
+3     0.0    16.0    32.0
+For Neural network with 1 hidden layers and 4 neurons in each layer: 96.0014619883041 96.43650793650795 96.4563492063492 96.1023051023051
+   pred_1  pred_2  pred_3
+1    58.0     1.0     0.0
+2     3.0    66.0     2.0
+3     0.0     1.0    47.0
+For Neural network with 1 hidden layers and 8 neurons in each layer: 97.2514619883041 97.46031746031747 97.67857142857143 97.33411033411033
+   pred_1  pred_2  pred_3
+1    59.0     0.0     0.0
+2     3.0    66.0     2.0
+3     0.0     0.0    48.0
+For Neural network with 1 hidden layers and 16 neurons in each layer: 97.2514619883041 97.40873015873017 97.40873015873017 97.29381729381728
+   pred_1  pred_2  pred_3
+1    58.0     1.0     0.0
+2     1.0    68.0     2.0
+3     0.0     1.0    47.0
+For Neural network with 2 hidden layers and 2 neurons in each layer: 39.92539559683523 nan 33.33333333333333 nan
+   pred_1  pred_2  pred_3
+1     0.0    59.0     0.0
+2     0.0    71.0     0.0
+3     0.0    48.0     0.0
+For Neural network with 2 hidden layers and 4 neurons in each layer: 39.92539559683523 nan 33.33333333333333 nan
+   pred_1  pred_2  pred_3
+1     0.0    59.0     0.0
+2     0.0    71.0     0.0
+3     0.0    48.0     0.0
+For Neural network with 2 hidden layers and 8 neurons in each layer: 61.92466460268317 nan 58.472222222222214 nan
+   pred_1  pred_2  pred_3
+1    21.0    38.0     0.0
+2     1.0    70.0     0.0
+3     0.0    29.0    19.0
+For Neural network with 2 hidden layers and 16 neurons in each layer: 93.00653594771242 nan 92.19047619047619 nan
+   pred_1  pred_2  pred_3
+1    53.0     6.0     0.0
+2     0.0    70.0     1.0
+3     0.0     5.0    43.0
+For Neural network with 3 hidden layers and 2 neurons in each layer: 39.92539559683523 nan 33.33333333333333 nan
+   pred_1  pred_2  pred_3
+1     0.0    59.0     0.0
+2     0.0    71.0     0.0
+3     0.0    48.0     0.0
+For Neural network with 3 hidden layers and 4 neurons in each layer: 39.92539559683523 nan 33.33333333333333 nan
+   pred_1  pred_2  pred_3
+1     0.0    59.0     0.0
+2     0.0    71.0     0.0
+3     0.0    48.0     0.0
+For Neural network with 3 hidden layers and 8 neurons in each layer: 39.92539559683523 nan 33.33333333333333 nan
+   pred_1  pred_2  pred_3
+1     0.0    59.0     0.0
+2     0.0    71.0     0.0
+3     0.0    48.0     0.0
+For Neural network with 3 hidden layers and 16 neurons in each layer: 68.62401100791195 nan 66.21031746031747 nan
+   pred_1  pred_2  pred_3
+1    30.0    29.0     0.0
+2     3.0    67.0     1.0
+3     0.0    23.0    25.0
+For Neural network with 4 hidden layers and 2 neurons in each layer: 39.92539559683523 nan 33.33333333333333 nan
+   pred_1  pred_2  pred_3
+1     0.0    59.0     0.0
+2     0.0    71.0     0.0
+3     0.0    48.0     0.0
+For Neural network with 4 hidden layers and 4 neurons in each layer: 39.92539559683523 nan 33.33333333333333 nan
+   pred_1  pred_2  pred_3
+1     0.0    59.0     0.0
+2     0.0    71.0     0.0
+3     0.0    48.0     0.0
+For Neural network with 4 hidden layers and 8 neurons in each layer: 39.92539559683523 nan 33.33333333333333 nan
+   pred_1  pred_2  pred_3
+1     0.0    59.0     0.0
+2     0.0    71.0     0.0
+3     0.0    48.0     0.0
+For Neural network with 4 hidden layers and 16 neurons in each layer: 39.92539559683523 nan 33.33333333333333 nan
+   pred_1  pred_2  pred_3
+1     0.0    59.0     0.0
+2     0.0    71.0     0.0
+3     0.0    48.0     0.0
+
+
+
+alha=1, r_lambda=0.01
+For Neural network with 0 hidden layers and 2 neurons in each layer: 97.22222222222223 97.59920634920636 97.46031746031746 97.33411033411033
+   pred_1  pred_2  pred_3
+1    57.0     2.0     0.0
+2     1.0    68.0     2.0
+3     0.0     0.0    48.0
+For Neural network with 0 hidden layers and 4 neurons in each layer: 95.55555555555557 96.1309523809524 95.76190476190477 95.6934546934547
+   pred_1  pred_2  pred_3
+1    56.0     3.0     0.0
+2     2.0    67.0     2.0
+3     0.0     1.0    47.0
+For Neural network with 0 hidden layers and 8 neurons in each layer: 97.22222222222223 97.57936507936509 97.34920634920636 97.25045325045323
+   pred_1  pred_2  pred_3
+1    58.0     1.0     0.0
+2     1.0    68.0     2.0
+3     0.0     1.0    47.0
+For Neural network with 0 hidden layers and 16 neurons in each layer: 97.80701754385964 98.07539682539684 98.07539682539684 97.83838383838383
+   pred_1  pred_2  pred_3
+1    58.0     1.0     0.0
+2     0.0    68.0     3.0
+3     0.0     0.0    48.0
+For Neural network with 1 hidden layers and 2 neurons in each layer: 79.47368421052633 nan 78.15476190476193 nan
+   pred_1  pred_2  pred_3
+1    41.0    18.0     0.0
+2     3.0    67.0     1.0
+3     0.0    15.0    33.0
+For Neural network with 1 hidden layers and 4 neurons in each layer: 97.18201754385964 97.51984126984127 97.32142857142858 97.14851814851815
+   pred_1  pred_2  pred_3
+1    59.0     0.0     0.0
+2     2.0    67.0     2.0
+3     0.0     1.0    47.0
+For Neural network with 1 hidden layers and 8 neurons in each layer: 98.33333333333334 98.49206349206348 98.57142857142856 98.41491841491843
+   pred_1  pred_2  pred_3
+1    59.0     0.0     0.0
+2     2.0    68.0     1.0
+3     0.0     0.0    48.0
+For Neural network with 1 hidden layers and 16 neurons in each layer: 97.2514619883041 97.59920634920636 97.59920634920636 97.32556332556332
+   pred_1  pred_2  pred_3
+1    58.0     1.0     0.0
+2     1.0    67.0     3.0
+3     0.0     0.0    48.0
+For Neural network with 2 hidden layers and 2 neurons in each layer: 39.36984004127967 nan 32.857142857142854 nan
+   pred_1  pred_2  pred_3
+1     0.0    59.0     0.0
+2     1.0    70.0     0.0
+3     2.0    46.0     0.0
+For Neural network with 2 hidden layers and 4 neurons in each layer: 41.5920622635019 nan 35.0 nan
+   pred_1  pred_2  pred_3
+1     3.0    56.0     0.0
+2     0.0    71.0     0.0
+3     0.0    48.0     0.0
+For Neural network with 2 hidden layers and 8 neurons in each layer: 80.1593137254902 nan 78.13492063492063 nan
+   pred_1  pred_2  pred_3
+1    40.0    19.0     0.0
+2     1.0    70.0     0.0
+3     1.0    14.0    33.0
+For Neural network with 2 hidden layers and 16 neurons in each layer: 96.69590643274854 96.96428571428574 97.12301587301587 96.8049728049728
+   pred_1  pred_2  pred_3
+1    58.0     1.0     0.0
+2     2.0    66.0     3.0
+3     0.0     0.0    48.0
+For Neural network with 3 hidden layers and 2 neurons in each layer: 39.92539559683523 nan 33.33333333333333 nan
+   pred_1  pred_2  pred_3
+1     0.0    59.0     0.0
+2     0.0    71.0     0.0
+3     0.0    48.0     0.0
+For Neural network with 3 hidden layers and 4 neurons in each layer: 39.92539559683523 nan 33.33333333333333 nan
+   pred_1  pred_2  pred_3
+1     0.0    59.0     0.0
+2     0.0    71.0     0.0
+3     0.0    48.0     0.0
+For Neural network with 3 hidden layers and 8 neurons in each layer: 39.92539559683523 nan 33.33333333333333 nan
+   pred_1  pred_2  pred_3
+1     0.0    59.0     0.0
+2     0.0    71.0     0.0
+3     0.0    48.0     0.0
+For Neural network with 3 hidden layers and 16 neurons in each layer: 62.404970760233915 nan 58.825396825396844 nan
+   pred_1  pred_2  pred_3
+1    25.0    34.0     0.0
+2     1.0    69.0     1.0
+3     0.0    32.0    16.0
+For Neural network with 4 hidden layers and 2 neurons in each layer: 39.92539559683523 nan 33.33333333333333 nan
+   pred_1  pred_2  pred_3
+1     0.0    59.0     0.0
+2     0.0    71.0     0.0
+3     0.0    48.0     0.0
+For Neural network with 4 hidden layers and 4 neurons in each layer: 39.92539559683523 nan 33.33333333333333 nan
+   pred_1  pred_2  pred_3
+1     0.0    59.0     0.0
+2     0.0    71.0     0.0
+3     0.0    48.0     0.0
+For Neural network with 4 hidden layers and 8 neurons in each layer: 39.92539559683523 nan 33.33333333333333 nan
+   pred_1  pred_2  pred_3
+1     0.0    59.0     0.0
+2     0.0    71.0     0.0
+3     0.0    48.0     0.0
+For Neural network with 4 hidden layers and 16 neurons in each layer: 46.5920622635019 nan 40.76190476190475 nan
+   pred_1  pred_2  pred_3
+1    12.0    47.0     0.0
+2     4.0    67.0     0.0
+3     5.0    39.0     4.0
+
+
+
+alpha=0.5, r_lambda=0.01
+For Neural network with 0 hidden layers and 2 neurons in each layer: 97.27726178190575 97.71825396825396 97.71825396825398 97.41347541347542
+   pred_1  pred_2  pred_3
+1    58.0     1.0     0.0
+2     3.0    67.0     1.0
+3     0.0     0.0    48.0
+For Neural network with 0 hidden layers and 4 neurons in each layer: 96.13691090471278 96.48809523809524 96.70634920634919 96.2945942945943
+   pred_1  pred_2  pred_3
+1    58.0     1.0     0.0
+2     3.0    65.0     3.0
+3     0.0     0.0    48.0
+For Neural network with 0 hidden layers and 8 neurons in each layer: 94.43756449948401 95.91089466089467 94.49206349206348 94.49528249528251
+   pred_1  pred_2  pred_3
+1    55.0     4.0     0.0
+2     3.0    67.0     1.0
+3     0.0     2.0    46.0
+For Neural network with 0 hidden layers and 16 neurons in each layer: 96.0749914000688 96.7063492063492 96.21031746031747 96.1043401043401
+   pred_1  pred_2  pred_3
+1    57.0     2.0     0.0
+2     1.0    67.0     3.0
+3     0.0     1.0    47.0
+For Neural network with 1 hidden layers and 2 neurons in each layer: 46.83716030271758 nan 41.476190476190474 nan
+   pred_1  pred_2  pred_3
+1    14.0    44.0     1.0
+2     5.0    65.0     1.0
+3     9.0    35.0     4.0
+For Neural network with 1 hidden layers and 4 neurons in each layer: 97.27726178190575 97.65873015873015 97.79761904761904 97.42590742590744
+   pred_1  pred_2  pred_3
+1    59.0     0.0     0.0
+2     4.0    66.0     1.0
+3     0.0     0.0    48.0
+For Neural network with 1 hidden layers and 8 neurons in each layer: 96.63054695562435 96.98412698412697 96.8452380952381 96.68087468087468
+   pred_1  pred_2  pred_3
+1    59.0     0.0     0.0
+2     3.0    66.0     2.0
+3     0.0     1.0    47.0
+For Neural network with 1 hidden layers and 16 neurons in each layer: 97.218782249742 97.59920634920636 97.32142857142858 97.15240315240314
+   pred_1  pred_2  pred_3
+1    59.0     0.0     0.0
+2     1.0    67.0     3.0
+3     0.0     1.0    47.0
+For Neural network with 2 hidden layers and 2 neurons in each layer: 39.92539559683523 nan 33.33333333333333 nan
+   pred_1  pred_2  pred_3
+1     0.0    59.0     0.0
+2     0.0    71.0     0.0
+3     0.0    48.0     0.0
+For Neural network with 2 hidden layers and 4 neurons in each layer: 39.92539559683523 nan 33.33333333333333 nan
+   pred_1  pred_2  pred_3
+1     0.0    58.0     1.0
+2     0.0    71.0     0.0
+3     0.0    48.0     0.0
+For Neural network with 2 hidden layers and 8 neurons in each layer: 41.03650670794634 nan 34.44444444444444 nan
+   pred_1  pred_2  pred_3
+1     2.0    57.0     0.0
+2     0.0    71.0     0.0
+3     2.0    46.0     0.0
+For Neural network with 2 hidden layers and 16 neurons in each layer: 96.69246646026832 97.04365079365081 97.07142857142857 96.78669478669478
+   pred_1  pred_2  pred_3
+1    59.0     0.0     0.0
+2     3.0    66.0     2.0
+3     0.0     1.0    47.0
+For Neural network with 3 hidden layers and 2 neurons in each layer: 39.92539559683523 nan 33.33333333333333 nan
+   pred_1  pred_2  pred_3
+1     0.0    59.0     0.0
+2     0.0    71.0     0.0
+3     0.0    48.0     0.0
+For Neural network with 3 hidden layers and 4 neurons in each layer: 39.92539559683523 nan 33.33333333333333 nan
+   pred_1  pred_2  pred_3
+1     0.0    59.0     0.0
+2     0.0    71.0     0.0
+3     0.0    48.0     0.0
+For Neural network with 3 hidden layers and 8 neurons in each layer: 39.92539559683523 nan 33.33333333333333 nan
+   pred_1  pred_2  pred_3
+1     0.0    59.0     0.0
+2     0.0    71.0     0.0
+3     0.0    48.0     0.0
+For Neural network with 3 hidden layers and 16 neurons in each layer: 39.92539559683523 nan 33.33333333333333 nan
+   pred_1  pred_2  pred_3
+1     0.0    59.0     0.0
+2     0.0    71.0     0.0
+3     0.0    48.0     0.0
+For Neural network with 4 hidden layers and 2 neurons in each layer: 38.22604919160647 nan 33.33333333333333 nan
+   pred_1  pred_2  pred_3
+1    18.0    41.0     0.0
+2    21.0    50.0     0.0
+3    14.0    34.0     0.0
+For Neural network with 4 hidden layers and 4 neurons in each layer: 38.87276401788786 nan 33.33333333333333 nan
+   pred_1  pred_2  pred_3
+1     6.0    53.0     0.0
+2     8.0    63.0     0.0
+3     5.0    43.0     0.0
+For Neural network with 4 hidden layers and 8 neurons in each layer: 39.92539559683523 nan 33.33333333333333 nan
+   pred_1  pred_2  pred_3
+1     0.0    59.0     0.0
+2     0.0    71.0     0.0
+3     0.0    48.0     0.0
+For Neural network with 4 hidden layers and 16 neurons in each layer: 39.92539559683523 nan 33.33333333333333 nan
+   pred_1  pred_2  pred_3
+1     0.0    59.0     0.0
+2     0.0    71.0     0.0
+3     0.0    48.0     0.0
+
